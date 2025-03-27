@@ -6,3 +6,6 @@ This shows the first Markdown message created for a very introductory change
 ``` javascript
 var myVar = "Hello World!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
